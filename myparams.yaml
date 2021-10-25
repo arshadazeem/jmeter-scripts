@@ -1,6 +1,6 @@
 version: v0.1
 testName: mocked-backend
-testPlan: apim.jmx
-description: 'ApimMockTests Run'
-engineInstances: 13
+testPlan: mytest.jmx
+description: 'Load Test Run'
+engineInstances: 10
 engineSize: XL
